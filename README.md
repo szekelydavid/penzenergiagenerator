@@ -1,7 +1,5 @@
 # penzenergiagenerator
-<br/>
 C#,  quiz game made by SZDA
-<br/>
 <br/>
 Az INTRO
 <br/>
