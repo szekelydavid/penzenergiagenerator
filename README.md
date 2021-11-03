@@ -1,5 +1,7 @@
 # penzenergiagenerator
-C#,  quiz game made by SZDA. 2020.05.
+C#,  quiz game made by SZDA. 2020.05.  
+DOKUMENTÁCiÓ:  
+https://drive.google.com/file/d/15ciGXFfLx_DZroxjXsu7_uxpAgWdYqoL/view
 <br/>
 Az INTRO:
 <br/>
