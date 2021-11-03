@@ -1,0 +1,13 @@
+C:\david\Kvízjáték\valtasteszt\valtasteszt\obj\Debug\valtasteszt.csprojAssemblyReference.cache
+C:\david\Kvízjáték\valtasteszt\valtasteszt\bin\Debug\valtasteszt.exe.config
+C:\david\Kvízjáték\valtasteszt\valtasteszt\bin\Debug\valtasteszt.exe
+C:\david\Kvízjáték\valtasteszt\valtasteszt\bin\Debug\valtasteszt.pdb
+C:\david\Kvízjáték\valtasteszt\valtasteszt\bin\Debug\MonoGame.Framework.dll
+C:\david\Kvízjáték\valtasteszt\valtasteszt\bin\Debug\Newtonsoft.Json.dll
+C:\david\Kvízjáték\valtasteszt\valtasteszt\bin\Debug\SadConsole.dll
+C:\david\Kvízjáték\valtasteszt\valtasteszt\bin\Debug\MonoGame.Framework.xml
+C:\david\Kvízjáték\valtasteszt\valtasteszt\bin\Debug\Newtonsoft.Json.xml
+C:\david\Kvízjáték\valtasteszt\valtasteszt\bin\Debug\SadConsole.xml
+C:\david\Kvízjáték\valtasteszt\valtasteszt\obj\Debug\valtasteszt.csproj.CopyComplete
+C:\david\Kvízjáték\valtasteszt\valtasteszt\obj\Debug\valtasteszt.exe
+C:\david\Kvízjáték\valtasteszt\valtasteszt\obj\Debug\valtasteszt.pdb

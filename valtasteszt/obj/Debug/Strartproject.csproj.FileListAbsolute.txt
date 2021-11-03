@@ -1,0 +1,3 @@
+C:\david\Kvízjáték\valtasteszt\valtasteszt\obj\Debug\Strartproject.csprojAssemblyReference.cache
+C:\david\Kvízjáték\valtasteszt\valtasteszt\obj\Debug\valtasteszt.exe
+C:\david\Kvízjáték\valtasteszt\valtasteszt\obj\Debug\valtasteszt.pdb
