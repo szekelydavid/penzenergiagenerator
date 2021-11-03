@@ -3,7 +3,7 @@ C#,  quiz game made by SZDA. 2020.05.
 <br/>
 Az INTRO:
 <br/>
-![Scifiedition](https://user-images.githubusercontent.com/55109637/140154612-0987b8cc-981f-4cfe-b0cc-4c82c7abbaec.png)
+![intro](https://user-images.githubusercontent.com/55109637/140162593-595f2cd8-ceef-4e97-b979-246118b3203b.png)
 <br/>
 <br/>
 A MENÜ:
